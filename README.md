@@ -1,3 +1,3 @@
 # Calculator Project
-Simple calculator built with JavaScript
-Operations that can be performed: * / - and +
+- simple calculator built with JavaScript
+- operations that can be performed: * / - and +
